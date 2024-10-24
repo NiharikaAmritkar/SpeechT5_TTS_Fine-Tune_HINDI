@@ -1,0 +1,6 @@
+datasets
+soundfile
+speechbrain
+git+https://github.com/huggingface/transformers.git
+accelerate
+torch
